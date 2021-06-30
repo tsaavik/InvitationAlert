@@ -1,0 +1,9 @@
+## Interface: 70100
+## Title: Invitation|cffff00ffAlert!|r
+## Notes: creates loud soung when LFG invites you to a dungenon
+## Notes-ruRU: LFG invite sound by _|cffff00ffKivi|r
+## Author: EU-Gordunni Кивьери
+aiaWellcome.lua
+InvitationAlert.lua
+aiaWellcome.xml
+InvitationAlert.xml
