@@ -1,5 +1,16 @@
 Addon creates a loud "horn" sound when you receive an invitation to the dungeon through the LFG system,
 
-sound hearable even when game client is minimized or in background mode
+sound is played even when game client is minimized or in background mode
 
 from now on you will not miss your turn in the dungenon or LFR after waiting for 30 min =)
+
+
+
+
+
+
+
+# curse auto-build
+git tag -a v1.0 -m "Release 1.0"
+git push && git push --tags
+
