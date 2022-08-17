@@ -7,5 +7,6 @@ From now on you will not miss your turn in the dungenon or LFR after waiting for
 
 
 # curse auto-build
+git tag  #to see last tags
 git tag -a v1.0 -m "Release 1.0"
 git push && git push --tags
