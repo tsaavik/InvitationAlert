@@ -4,13 +4,13 @@
 <Frame name="frmInvitationAlert">
   <Scripts>
    <OnEvent>
-    aiaEvent();
+    AiaEvent();
    </OnEvent>
    <OnLoad>
-    aiaInit();
+    AiaInit();
    </OnLoad>
    <OnUpdate>
-    aiaUpdate();
+    AiaUpdate();
    </OnUpdate>
   </Scripts>
  </Frame>
