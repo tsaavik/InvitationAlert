@@ -1,6 +1,6 @@
 ## Last updated @file-date-iso@
-## Interface: 100002
-## Version: 1.7
+## Interface: 100005
+## Version: 1.8
 ## Title: InvitationAlert
 ## Notes: Makes a loud alert when LFG is ready (orginally by EU-Gordunni)
 ## Author: Tsaavik (Gnoballs @Greymane)
