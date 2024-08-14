@@ -10,4 +10,4 @@ From now on you will not miss your turn in the dungenon or LFR after waiting for
 git commit -a || echo "did you forget to bump TOC?"
 git tag  #to see last tags
 git tag -a v3.0 -m "Release 3.0"
-git push && git push --tags
+git push && git push origin $(git tag |tail -1)
