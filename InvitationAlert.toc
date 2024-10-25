@@ -1,5 +1,5 @@
 ## Last updated @file-date-iso@
-## Interface: 110002
+## Interface: 110005
 ## Version: @project-revision@
 ## Title: InvitationAlert
 ## Notes: Makes a loud alert when LFG is ready (orginally by EU-Gordunni)
