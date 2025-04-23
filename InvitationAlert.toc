@@ -1,9 +1,11 @@
 ## Last updated @file-date-iso@
-## Interface: 110100
+## Interface: 110105
 ## Version: @project-revision@
 ## Title: InvitationAlert
 ## Notes: Makes a loud alert when LFG is ready (orginally by EU-Gordunni)
 ## Author: Tsaavik (Gnoballs@Greymane)
 ## DefaultState: enabled
+## X-Curse-Project-ID: 499982
+
 InvitationAlert.lua
 InvitationAlert.xml
