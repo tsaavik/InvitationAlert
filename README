@@ -7,6 +7,9 @@ From now on you will not miss your turn in the dungenon or LFR after waiting for
 
 # curse auto-build
 git commit -a || echo "did you forget to bump TOC?"
+v="4.1c" ; git commit -a && git tag -a v$v -m "Release $v" ; git push
+
+#old
 git tag |tail -1 #to see last tag
 git tag -a v3.0 -m "Release 3.0"
 git push --follow-tags
